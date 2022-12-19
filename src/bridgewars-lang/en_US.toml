@@ -1,0 +1,4 @@
+game-description = "&eGet ready for the frantic fight that will ensue as the bridges fall, the last district standing will win!"
+gift-box = "&r&l&dGift Box"
+team-eliminated = "&eThe %s &ewas eliminated!"
+bridges-build-error = "&cInternal error when trying to execute ReaderBatch to build the bridges. Please notify the support team!"

@@ -1,0 +1,6 @@
+game-description = "&eEach player will have 5 lives, when your life counter reaches 0, you will be eliminated, the last player standing or the one with the most points will win!"
+my-lives = "&bLives left: &7%s"
+my-points = "&bMy points: &7%s"
+lost-life = "&7You lost a life"
+got-point = "&7You got a point"
+best-scores = "&c&lBEST SCORES"

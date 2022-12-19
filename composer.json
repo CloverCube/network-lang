@@ -1,0 +1,16 @@
+{
+  "name": "clover-cube/network-lang",
+  "description": "CloverCube Network language library",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "CloverCube\\network-lang\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "CloverCube",
+      "email": "clovercubepe@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+game-description = "&e¡Prepárate para la lucha frenética que se producirá cuando caigan los puentes, el último distrito en pie ganará!"
+gift-box = "&r&l&dCaja de regalo"
+team-eliminated = "&e¡El %s &efue eliminado!"
+bridges-build-error = "&cError interno al intentar ejecutar ReaderBatch para construir los puentes. ¡Por favor notifique al equipo de soporte!"
