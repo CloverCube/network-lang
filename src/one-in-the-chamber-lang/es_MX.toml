@@ -1,6 +1,6 @@
 game-description = "&eCada jugador tendrá 5 vidas, cuando tu contador de vidas llegue a 0, serás eliminado, ¡ganará el último jugador en pie o el que tenga más puntos!"
-my-lives = "&bVidas restantes: &7%s"
-my-points = "&bMis puntos: &7%s"
+my-lives = "&bVidas restantes: &f%s"
+my-points = "&bMis puntos: &f%s"
 lost-life = "&7Perdiste una vida"
 got-point = "&7Obtuviste un punto"
 best-scores = "&c&lMEJORES PUNTAJES"
