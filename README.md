@@ -1,22 +1,27 @@
 # network-lang
 CloverCube Network language library
 
-## Country codes
+## Example
+Create file in directory /src/core-lang/(country code)es_MX.toml
+
+And all the translation is inside the quotes
+
+# Country codes
 
 <table>
 
 <thead><tr>
 <th>nº
 </th>
-<th>Nombre
+<th>Name
 </th>
-<th>Idioma
+<th>Language
 </th>
-<th>Código local
+<th>Local code
 </th>
-<th>Idioma oficial en
+<th>Official language in
 </th>
-<th>Añadido en
+<th>Added in
 </th></tr></thead><tbody>
 <tr>
 <th>1
