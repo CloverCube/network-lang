@@ -1,6 +1,7 @@
 playing-in = "&l&eESTAS JUGANDO EN &cCLOVER&9CUBE &eNETWORK"
 prefix-1 = "&l&cCLOVER&9CUBE &r&7| &r"
 void = ""
+CONNECTING = "&aConectando..."
 VPN_BLOCKED = "No uses VPN para jugar en esté servidor"
 NETWORK_FULL = "&cNetwork llena..."
 PLAYER_IS_NOT_ONLINE = "&c%s no está en linea..."
