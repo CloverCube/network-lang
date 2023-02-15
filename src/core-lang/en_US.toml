@@ -1,4 +1,4 @@
-playing-in = "&l&eYOU ARE PLAYING ON &cCLOVER&9CUBE &eNETWORK"
+playing-in = "&l&eYOU ARE PLAYING ON &cCLOVER&9CUBE &eNETWORK&r\n\n&6Name: &9%s &6Online Players: &c%s"
 prefix-1 = "&l&cCLOVER&9CUBE &r&7| &r"
 void = ""
 CONNECTING = "&aConnecting..."
